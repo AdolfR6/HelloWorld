@@ -1,3 +1,3 @@
 # HelloWorld
 Firts Repository in GitHub
-Ediditibg readme
+Editing readme
