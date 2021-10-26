@@ -1,2 +1,3 @@
 # HelloWorld
-Firts Repoitory in GitHub
+Firts Repository in GitHub
+Ediditibg readme
